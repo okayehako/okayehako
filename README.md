@@ -1,6 +1,6 @@
 # <center>Okaye Hako</center>
 #### <center>[Português](#português) | [English](#english) | [Español](#español) | [Deutsch](#deutsch)</center>
-
+#### <center>[Astro Dog (Discord)](https://astrodog.vercel.app) | [Breakout game](https://karenlemos.github.io/Breakout/)</center>
 
 ## Português
 
@@ -20,3 +20,6 @@ Hola, mi nombre es Dimitri, tengo 13 años, soy programador y pianista. Estudio 
 ## Deutsch
 
 Hallo, mein Name ist Dimitri, ich bin 13 Jahre alt, Programmierer und Pianist. Ich studiere **Deutsch**, [Englisch](#english), **Libras** und [Spanisch](#español), **React Native** und **discord.py**
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=okayehako&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=okayehako&layout=compact&langs_count=7&theme=dracula)
