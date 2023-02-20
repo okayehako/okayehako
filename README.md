@@ -21,5 +21,9 @@ Hola, mi nombre es Dimitri, tengo 13 años, soy programador y pianista. Estudio 
 
 Hallo, mein Name ist Dimitri, ich bin 13 Jahre alt, Programmierer und Pianist. Ich studiere **Deutsch**, [Englisch](#english), **Libras** und [Spanisch](#español), **React Native** und **discord.py**
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=okayehako&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=okayehako&layout=compact&langs_count=7&theme=dracula)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=okayehako&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okayehako&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
